@@ -1,13 +1,12 @@
-# DHTML Adventure
+# Brian's Adventures
 
-![Excalibur by HBKerr][MainImage]
+Some adventures to practice writing...
 
-DHTML Adventure is a Javascript software framework designed to make it
-easy for people (particularly young people) to design their own
-interactive adventure games.
+* [The Quest](The%20Quest/Start.md) - Explore a dungeon!
+* [Lost in the Jungle](LostInTheJungle/Start.md) - Find your way out after being injured!
 
 If you are viewing this file on github.com, you can play a "live"
-version at [vcf.github.io][GHPages].
+version at [cherrypi.github.io][GHPages].
 
 To explore the framework, see
 [How To Write Adventures](HowToWriteAdventures/Start.md), an
@@ -32,6 +31,4 @@ DHTML Adventure is released under the [GPL Open Source License][GPL].
 [markdownjs]: https://github.com/evilstreak/markdown-js
 [GHRepo]: https://github.com/VCF/dhtmladventure
 [GPL]: https://github.com/VCF/dhtmladventure/blob/master/License.txt
-[GHPages]: https://vcf.github.io/dhtmladventure
-
-[MainImage]: image/excalibur_by_hbkerr.jpg "http://hbkerr.deviantart.com/art/Excalibur-107176451"
+[GHPages]: https://cherrypi.github.io/dhtmladventure
