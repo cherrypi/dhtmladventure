@@ -8,7 +8,7 @@ attracted a fire fighting helicopter. It stops all of the sudden and you think
 the pilot might have noticed you. It then creeps forward and descends toward the
 ground when it's about 30 feet above you a ladder drops and a person climbs down
 and helps you up. You then tell them your name and tell them all about what
-happened. they then call your friends and you a are united once more.
+happened. They then call your friends and you a are united once more.
 
 ##You Survived
 Yayyyyyy!
