@@ -1,5 +1,7 @@
 # Lost in The Jungle
 
+![Rain forest from wikimedia][MainImage]
+
 "*What the?*" You think. You look around. You had just bent down to get a bottle
 water out of your backpack, and BAM! They've disipeared. Maybe they just
 continued down the trail without you. You keep trekking through the jungle
@@ -10,4 +12,6 @@ back down again.
 
 "*Not a good sign.*" You think. You might be able to [try to find some
 help](./help.md) nearby but risk putting more pressure on your foot or do you
-[camp out](./camp.md) and wait for it to heal?
+[camp out](./camp.md) and wait for it to heal.
+
+[MainImage]: images/man_on_path.jpg "https://commons.wikimedia.org/wiki/File:HohRiverTrail_7322.jpg"
