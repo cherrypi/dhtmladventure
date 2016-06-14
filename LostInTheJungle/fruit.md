@@ -12,3 +12,7 @@ the ladder. You slowly pluck 3 bananas of the tree and climb down. You walk to
 camp triumphant. You wake up the next morning fed and rested. Your foot has only
 improved a little bit. [Do you stay a camp](./staycamp.md) or do you continue
 [hiking down the path](./continuehike.md)
+
+![Pixel drawing by me.][MainImage]
+
+[MainImage]: images/Black.jpg

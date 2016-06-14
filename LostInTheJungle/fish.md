@@ -7,4 +7,8 @@ the shallows. You again miss, and cry in frustration as at it swims in circles
 as if doing a victory dance. Another small fish paddles by. This time you don't
 even aim. You just throw your stick and watch it sink into the wet dirt. You
 sigh. You're not going to get far like this. Do you make a [trap](./trap.md) or
-an [enclosure](./enclosure.md) to contain the fish?    
+an [enclosure](./enclosure.md) to contain the fish?   
+
+![Pixel drawing by me.][MainImage]
+
+[MainImage]: images/Fish.png
