@@ -4,4 +4,4 @@ realize your foot is half submerged. You panic and flail around. You sink down
 to your waist. You sit there and watch helplessly as an ant walks across the
 quicksand. You stay still  and slowly climb out. Well you wee panicking you
 sprained your other ankle (why does this keep happening?). Do you
-[rest](./rest.md) and recover or continue on.
+[rest](./rest.md) and recover or [continue on](./continue.md).

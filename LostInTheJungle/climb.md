@@ -4,3 +4,8 @@
   your heart beating, you try reaching another ledge but your leg can't reach
   it. Sweat trickles down your now shining forehead. Do you [jump](./jump.md)
   off or [hold on](./hold.md)?
+
+
+  ![PIXEL picture by me][MainImage]
+
+  [MainImage]: images/Climb.png

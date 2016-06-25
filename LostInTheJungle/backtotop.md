@@ -13,3 +13,7 @@ you think. You must of passed out from the pain. You can't continue like this.
 ##Oops
 
 [Go back?](./grab.md)   
+
+![PIXEL picture by me][MainImage]
+
+[MainImage]: images/Gandalf.png
