@@ -9,3 +9,7 @@ and there is no where to go.
 
 # The End
 [Go Back?](./help.md)
+
+![PIXEL picture by me][MainImage]
+
+[MainImage]: images/eNCLOSURE.png
