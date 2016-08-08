@@ -1,0 +1,1 @@
+You walk and walk. The jungle slowly transforms into a small desert. You walk and walk. You sit down and drink your water. A lizard crawls out of it's hole and hisses at you. Your stomach roars in protest. [Do you eat one of those lizards](./lizard.md) or [find a plant of some sort](./plant.md)?

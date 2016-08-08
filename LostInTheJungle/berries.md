@@ -6,7 +6,7 @@ handbook about camping in the wilderness. Your friends and you all bought one
 before going on the adventure. As you are flipping through the pages a bird
 calls loudly above you. You jump surprised and drop the book. It bounces slowly
 and surely down the cliff and you sink to the ground. Do you [taste](./taste.md)
-the berry or leave it alone?   
+the berry or [leave it alone?](./alone.md)
 
 ![PIXEL picture by me][MainImage]
 
