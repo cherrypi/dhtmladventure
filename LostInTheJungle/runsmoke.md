@@ -5,3 +5,4 @@ through a lot to" the other says. Emily and Bret haul you up and escort you
 home.
 
 #YOU WON
+ Now you can safely go home away from the terrors of the jungle.
