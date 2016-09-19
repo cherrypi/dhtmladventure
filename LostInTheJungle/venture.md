@@ -3,3 +3,7 @@ starved. You won't be able to move in the state your in.
 
 
 # Lets not do that again!
+
+![PIXEL picture by me][MainImage]
+
+[MainImage]: images/Desert.png
